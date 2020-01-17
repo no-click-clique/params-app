@@ -1,3 +1,3 @@
 {
-  message: "Hi World"
+  message: @my_message
 }
