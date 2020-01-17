@@ -33,4 +33,5 @@ class Api::ParamsExamplesController < ApplicationController
     render "segment_params.json.jb"
   end
 
+
 end
